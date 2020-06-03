@@ -1,4 +1,4 @@
-﻿namespace LeetCode_Challenges.JuneChallange2020
+﻿namespace LeetCodeChallenges.JuneChallange2020
 {
     public class Day1_InvertBinayTree
     {

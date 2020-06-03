@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LeetCode_Challenges
+namespace LeetCodeChallenges
 {
     class Program
     {
