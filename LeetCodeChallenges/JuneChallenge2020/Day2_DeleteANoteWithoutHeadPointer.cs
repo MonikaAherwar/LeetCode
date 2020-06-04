@@ -1,4 +1,4 @@
-﻿namespace LeetCodeChallenges.JuneChallange2020
+﻿namespace LeetCodeChallenges.JuneChallenge2020
 {
     class Day2_DeleteANoteWithoutHeadPointer
     {
