@@ -1,1 +1,3 @@
-# LeetCode_JuneChallange2020
+# LeetCode
+# LeetCode Problems
+# LeetCode Challanges
