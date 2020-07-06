@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace LeetCodeChallenges.JuneChallenge2020
+namespace LeetCode.JuneChallenge2020
 {
     class Day6_ReconstructQueueWRTCorrectHeight
     {

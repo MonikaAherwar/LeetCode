@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace LeetCodeChallenges.JuneChallenge2020
+namespace LeetCode.JuneChallenge2020
 {
     class Day3_Two_City_Scheduling
     {

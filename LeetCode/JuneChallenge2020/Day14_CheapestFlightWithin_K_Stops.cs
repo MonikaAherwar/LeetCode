@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace LeetCodeChallenges.JuneChallenge2020
+namespace LeetCode.JuneChallenge2020
 {
     class Day14_CheapestFlightWithin_K_Stops
     {

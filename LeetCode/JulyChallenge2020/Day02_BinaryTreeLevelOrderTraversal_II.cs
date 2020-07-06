@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using LeetCodeChallenges.JuneChallenge2020;
+﻿using System.Collections.Generic;
+using System.Linq;
 
-namespace LeetCodeChallenges.JulyChallenge2020
+namespace LeetCode.JulyChallenge2020
 {
     class Day02_BinaryTreeLevelOrderTraversal_II
     {

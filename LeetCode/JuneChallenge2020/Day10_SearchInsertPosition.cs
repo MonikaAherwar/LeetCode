@@ -1,4 +1,4 @@
-﻿namespace LeetCodeChallenges.JuneChallenge2020
+﻿namespace LeetCode.JuneChallenge2020
 {
     class Day10_SearchInsertPosition
     {

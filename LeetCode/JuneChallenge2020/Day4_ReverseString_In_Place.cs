@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LeetCodeChallenges.JuneChallenge2020
+namespace LeetCode.JuneChallenge2020
 {
     class Day4_ReverseString_In_Place
     {

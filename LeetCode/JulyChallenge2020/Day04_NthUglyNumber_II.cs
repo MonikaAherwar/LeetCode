@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LeetCodeChallenges.JulyChallenge2020
+namespace LeetCode.JulyChallenge2020
 {
     class NthUglyNumber_II
     {

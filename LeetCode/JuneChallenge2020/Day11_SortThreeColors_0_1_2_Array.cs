@@ -1,4 +1,4 @@
-﻿namespace LeetCodeChallenges.JuneChallenge2020
+﻿namespace LeetCode.JuneChallenge2020
 {
     class Day11_SortThreeColors_0_1_2_Array
     {

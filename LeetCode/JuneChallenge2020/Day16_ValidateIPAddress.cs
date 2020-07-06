@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace LeetCodeChallenges.JuneChallenge2020
+namespace LeetCode.JuneChallenge2020
 {
     class Day16_ValidateIPAddress
     {
